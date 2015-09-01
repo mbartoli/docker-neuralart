@@ -15,6 +15,8 @@ Then, in the new shell, run
 luarocks install inn
 ```
 
+### Automated Build 
+See https://hub.docker.com/r/mbartoli/neuralart/ 
 
 ## TODO
 Add CUDA capability  
