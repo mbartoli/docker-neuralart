@@ -17,7 +17,8 @@ RUN apt-get -y install \
 	g++ \ 
 	curl \
 	lua5.2 \
-	liblua5.2-dev
+	liblua5.2-dev \
+	qt-sdk
 RUN pip install numpy scipy
 
 # torch installation
