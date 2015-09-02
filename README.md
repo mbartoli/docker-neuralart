@@ -12,7 +12,7 @@ docker run -i -t mbartoli/neuralart /bin/bash
 ```
 Then, in the new shell, run
 ```
-luarocks install inn cunn nn qtlua
+luarocks install inn cunn nn qtlua image
 ```
 
 ### Automated Build 
